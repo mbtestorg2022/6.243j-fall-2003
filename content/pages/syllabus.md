@@ -45,7 +45,7 @@ This course studies state-of-the-art methods for modeling, analysis, and design 
     *   Invariant Probability Density Functions
     *   Optimal Control and Dynamic Programming
 
-Prerequisite: [6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011/) or an equivalent course.
+Prerequisite: [6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011) or an equivalent course.
 
 Information Resources and Literature
 ------------------------------------
